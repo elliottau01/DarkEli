@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DarkEli
-- 👀 I’m interested in python and its application on finance
-- 🌱 I’m currently learning python from the basic
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning python from the basic and how to use Github
 
 <!---
 DarkEli/DarkEli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
