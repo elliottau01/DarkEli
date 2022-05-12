@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkEli
-- 👀 I’m interested in Python
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning python from the basic and Github
 
 <!---
