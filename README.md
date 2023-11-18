@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @DarkEli, Elliott. I am currently a third year Statistics student at the University of British Columbia. 
+### 👋 Hi, I’m @DarkEli, Elliott. I am currently a third year Statistics student at the University of British Columbia, Vancouver, BC, Canada. 
 
 
 <!---
